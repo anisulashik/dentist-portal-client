@@ -65,11 +65,11 @@ const Login = () => {
                         {...register("email",{
                             required:{
                                 value:true,
-                                message:'Email is required'
+                                message:'Your Email is required'
                             },
                             pattern:{
                             value: /[a-z0-9]+@[a-z]+\.[a-z]{2,3}/,
-                            message:'Provide a valid email'
+                            message:'Please Provide a valid email'
                             }
                         })}
                     />
