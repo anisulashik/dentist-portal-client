@@ -1,0 +1,16 @@
+/***
+*----- 
+Tailwind
+--------------
+* Go to tailwind Docs
+* Follow the installation procedure
+* Daisy Ui is a Tailwind CSS component library,Go to installation , follow procedures
+* For Image margin correction : mt-[-150px]
+* Set background Image style={{
+            background:`url(${appointment})`,
+        }}
+* install dotenv . create environment variable, and set firebase firebase property there in variable. use those variable in firebase.init.js instead of direct value
+* 
+***/
+
+                    
